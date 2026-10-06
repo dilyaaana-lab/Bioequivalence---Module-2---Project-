@@ -50,3 +50,28 @@ $$80.00\% \le \text{Lower CI} \quad \text{and} \quad \text{Upper CI} \le 125.00\
  Regulatory Decision: BIOEQUIVALENT (The 90% CI lies entirely within the range [80.00 %, 125.00 %]).
  
  💡 Conclusion & SignificanceBioequivalence testing plays a crucial role in modern healthcare. Demonstrating bioequivalence ensures that generic medications deliver the exact same safety, quality, and therapeutic efficacy as the original innovator drugs. This enables patients to have continuous access to affordable, high-quality treatments, especially in situations where the original medication is unavailable, out of stock, or cost-prohibitive.Furthermore, evaluating bioequivalence requires deep mathematical and statistical expertise. Applying log-normal transformations, Student's t-distributions, and two one-sided testing (TOST) concepts guarantees that pharmaceutical comparisons are grounded in scientific rigor rather than random chance, ultimately protecting patient health and safety.
+
+
+****Primary Academic Literature and Textbooks****
+
+
+
+***Applied Biopharmaceutics Pharmacokinetics (7th Ed.) By Leon Shargel and Andrew B.C. Yu***
+
+
+***Regulatory Guidelines & Official Standards***
+
+European Medicines Agency (EMA): Guideline on the Investigation of Bioequivalence (CPMP/EWP/QWP/1401/98 Rev. 1/ Corr ).
+
+U.S. Food and Drug Administration (FDA): Bioavailability and Bioequivalence Studies Submitted in NDAs or INDs — General Considerations.
+
+***Python Documentation & Scientific Libraries***
+
+NumPy Developers: NumPy Reference Guide & Mathematical Functions. Available at: https://numpy.org/doc/
+
+SciPy Community: SciPy Statistical Functions (scipy.stats). Available at: https://docs.scipy.org/doc/scipy/reference/stats.html
+
+***Educational Online Resources & Lectures***
+
+Interactive Jupyter Notebook Documentation: Markdown and LaTeX formatting guides for scientific computing.
+ 
