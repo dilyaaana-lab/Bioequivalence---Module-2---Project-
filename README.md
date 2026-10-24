@@ -1,3 +1,11 @@
+My name is Dilyana.
+This project is created mainly for the course in SoftUni of Data Science.
+I am really happy in reason of I have the opportunities to study, practice and create my first project by my knowledge in Python, Python liabraries and medical knowledge.
+This is my first project, and I want to add that I did all my best about the project: to read pharmacocinetics books and formulas, to learn basic in Matplotlib, Pandas and Numpy, and to review statistics at all.
+I know this project is not fully perfect, but this is my fist project in programming area,my fist attemp !!!
+ 
+ 
+ 
  # Bioequivalence — Module 2 Project
 
 Bioequivalence Study and Pharmacokinetic Analysis Using Python
