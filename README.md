@@ -46,9 +46,7 @@ $$\text{SEM} = \frac{s}{\sqrt{n}}$$
 $$\text{Margin of Error} = t_{\text{crit}} \times \text{SEM}$$
 
 
- Regulatory Decision CriteriaThe log confidence limits are exponentiated (exp) to back-transform them to the percentage ratio scale: 
 
-$$80.00\% \le \text{Lower CI} \quad \text{and} \quad \text{Upper CI} \le 125.00\%$$
  
 
  📊 Summary of ResultsSample Size ($n$): 
