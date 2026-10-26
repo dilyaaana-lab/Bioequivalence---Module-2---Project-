@@ -54,8 +54,10 @@ $$80.00\% \le \text{Lower CI} \quad \text{and} \quad \text{Upper CI} \le 125.00\
  📊 Summary of ResultsSample Size ($n$): 
  
 
- 12 crossover subjectsPoint Estimate (GMR): 98.30%90% Confidence Interval: [98.10%, 98.51%]
- Regulatory Decision: BIOEQUIVALENT (The 90% CI lies entirely within the range [80.00 %, 125.00 %]).
+ 12 crossover subjectsPoint Estimate (GMR): 98.30%       
+ 90% Confidence Interval: [98.10%, 98.51%]
+ Regulatory Decision: BIOEQUIVALENT (The 90% CI lies entirely within the range
+ [80.00 %, 125.00 %]).
  
  💡 Conclusion & SignificanceBioequivalence testing plays a crucial role in modern healthcare. Demonstrating bioequivalence ensures that generic medications deliver the exact same safety, quality, and therapeutic efficacy as the original innovator drugs. This enables patients to have continuous access to affordable, high-quality treatments, especially in situations where the original medication is unavailable, out of stock, or cost-prohibitive.Furthermore, evaluating bioequivalence requires deep mathematical and statistical expertise. Applying log-normal transformations, Student's t-distributions, and two one-sided testing (TOST) concepts guarantees that pharmaceutical comparisons are grounded in scientific rigor rather than random chance, ultimately protecting patient health and safety.
 
