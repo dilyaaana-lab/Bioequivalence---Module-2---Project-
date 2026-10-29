@@ -1,8 +1,11 @@
-My name is Dilyana.
+My name is Dilyana. I work as an nurse and  an junior accountant meantime. I did not have previous experience in Python, or Data Science, but the desire to develop myself.
+
 This project is created mainly for the course in SoftUni of Data Science.
 I am really happy in reason of I have the opportunities to study, practice and create my first project by my knowledge in Python, Python liabraries and medical knowledge.
 This is my first project, and I want to add that I did all my best about the project: to read pharmacocinetics books and formulas, to learn basic in Matplotlib, Pandas and Numpy, and to review statistics at all.
 I know this project is not fully perfect, but this is my fist project in programming area,my fist attemp !!!
+I used the book - ***Applied Biopharmaceutics Pharmacokinetics (7th Ed.) By Leon Shargel and Andrew B.C. Yu***, Udemy courses and Gemini in process of creadting Diagrams.
+Every comments after the assessement of the project of the teacher in SoftUni will helpe me to inprove my knowledge and ability.
  
  
  
