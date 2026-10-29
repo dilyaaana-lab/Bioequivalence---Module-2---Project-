@@ -46,7 +46,10 @@ $$\text{SEM} = \frac{s}{\sqrt{n}}$$
 $$\text{Margin of Error} = t_{\text{crit}} \times \text{SEM}$$
 
 
-
+Definition: GMR represents the ratio of the mean systemic exposure (such as $\text{AUC}$ or $C_{\max}$) of the generic product compared to the reference product.
+Why Geometric Mean? 
+Pharmacokinetic parameters in humans follow a log-normal distribution. Therefore, the raw data is first transformed into a natural logarithmic scale ($\ln$), the arithmetic difference between the means is calculated, and then exponentiated ($\exp$) back to the linear scale, which mathematically yields the ratio of geometric means.
+Formula:$$\Delta \bar{x}_{\ln} = \text{Mean}(\ln(\text{AUC}_{\text{generic}})) - \text{Mean}(\ln(\text{AUC}_{\text{reference}})) = \ln\left(\frac{\text{Geometric Mean}_{\text{generic}}}{\text{Geometric Mean}_{\text{reference}}}\right)$$$$\text{GMR (\%)} = \exp(\Delta \bar{x}_{\ln}) \times 100$$
  
 
  📊 Summary of ResultsSample Size ($n$): 
